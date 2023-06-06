@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 public class Cat implements Serializable {
 
+    private final static long serialVersionUID = 1L; // version
     private String name;
     private transient int age;  // Transient
 
