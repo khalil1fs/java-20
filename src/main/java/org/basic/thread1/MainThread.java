@@ -1,4 +1,4 @@
-package org.basic.thread;
+package org.basic.thread1;
 
 public class MainThread {
     public static void main(String[] args) {
